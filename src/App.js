@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <my-custom-element></my-custom-element>
         </a>
       </header>
     </div>
